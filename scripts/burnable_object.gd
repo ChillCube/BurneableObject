@@ -46,3 +46,4 @@ func _on_fire_area_3d_body_entered(body: Node3D) -> void:
 			
 			self.add_child(current_level_object)
 			pass
+
